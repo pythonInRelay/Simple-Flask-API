@@ -2,7 +2,7 @@
 
 _________________________
 
-*NB! If you are viewing these respositories as a means to assess my skills, please also see my [latest projects](https://github.com/pythonInRelay?tab=repositories).*
+*NB! If you are viewing these repositories as a means to assess my skills, please also see my [latest projects](https://github.com/pythonInRelay?tab=repositories).*
 
 _________________________
 
